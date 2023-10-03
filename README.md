@@ -14,9 +14,6 @@
 
 - 📫 How to reach me **shaheryar903@gmail.com**
 
-- 📄 Know about my experiences
-[https://shaheryar-ahmed.github.io/my-portfolio/assets/SHAHERYAR%20AHMED%20RESUME.pdf](https://shaheryar-ahmed.github.io/my-portfolio/assets/SHAHERYAR%20AHMED%20RESUME.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/beingshery" target="blank"><img align="center"
