@@ -72,13 +72,3 @@
         rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
             height="40" /> </a> </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheryar-ahmed&show_icons=true&locale=en&layout=compact"
-        alt="shaheryar-ahmed" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=shaheryar-ahmed&show_icons=true&locale=en"
-        alt="shaheryar-ahmed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaheryar-ahmed&"
-        alt="shaheryar-ahmed" /></p>
