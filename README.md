@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **HTML, CSS, JS, WordPress**
 
-- 📫 How to reach me **shaheryar903@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/beingshery" target="blank"><img align="center"
